@@ -1,0 +1,11 @@
+This is test document
+
+GIT INIT. Command used to Turn into representative.
+
+git --version . to check version
+
+git help config  .to check cmd help 
+
+ls -l. How many folders in the directory
+
+git add-A . To add file in the staging mode.
