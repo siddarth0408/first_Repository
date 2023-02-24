@@ -8,4 +8,19 @@ git help config  .to check cmd help
 
 ls -l. How many folders in the directory
 
-git add-A . To add file in the staging mode.
+git add -A . To add file in the staging mode.
+
+git status. to check the file stage 
+
+git commit -m "first commit". to commit the file
+
+git config --global user.email siddarth131999@gmail.com . To register in GitHub.
+
+git remote add origin (repository link )  . to add file to GitHub repository
+
+git push origin master . to push local repository into remote(online) repository 
+'
+--------
+
+git push origin master . to push local repository into remote(online) repository 
+'
